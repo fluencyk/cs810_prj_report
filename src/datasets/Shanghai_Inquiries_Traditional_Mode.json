@@ -1,0 +1,504 @@
+{
+  "inquiries": [
+    {
+      "id": 1,
+      "human": "What’s the deal with coffee stuff in Shanghai?",
+      "gpt": "Shanghai’s coffee culture is thriving, with trendy cafes in Jing’an and Xuhui offering artisanal brews and latte art, driven by a growing middle class and global influences."
+    },
+    {
+      "id": 2,
+      "human": "Tell me something about Shanghai cafes, I guess.",
+      "gpt": "Shanghai has a vibrant cafe scene, with spots like Seesaw Coffee and Sumerian in Jing’an known for specialty beans and cozy vibes, popular among young professionals."
+    },
+    {
+      "id": 3,
+      "human": "List the top five coffee shops in Shanghai for 2025.",
+      "gpt": "The top five coffee shops in Shanghai for 2025 are: 1) Seesaw Coffee, 2) Sumerian, 3) Cafe del Volcan, 4) UNDEF/NE, 5) Mellower Coffee, known for quality and ambiance."
+    },
+    {
+      "id": 4,
+      "human": "Explain the history of Shanghai’s coffee culture from 2015 to 2025.",
+      "gpt": "From 2015 to 2025, Shanghai’s coffee culture grew from niche cafes to a mainstream trend, with global chains like Starbucks and local roasters like Seesaw driving innovation."
+    },
+    {
+      "id": 5,
+      "human": "Describe Shanghai’s coffee culture in 2025.",
+      "gpt": "Shanghai’s 2025 coffee culture blends global trends with local flair, featuring artisanal cafes, coffee festivals, and a focus on sustainability in districts like Jing’an."
+    },
+    {
+      "id": 6,
+      "human": "What makes Shanghai’s coffee shops popular?",
+      "gpt": "Shanghai’s coffee shops are popular for their aesthetic designs, high-quality beans, and social media appeal, attracting young locals and expats in trendy areas."
+    },
+    {
+      "id": 7,
+      "human": "Classify reviews of Shanghai’s artisanal coffee shops as positive or negative.",
+      "gpt": "Most reviews of Shanghai’s artisanal coffee shops are positive, praising ambiance and quality, though some cite high prices as a negative factor."
+    },
+    {
+      "id": 8,
+      "human": "How do Shanghai’s coffee festivals attract visitors?",
+      "gpt": "Shanghai’s coffee festivals draw visitors with barista competitions, tastings, and workshops, held in vibrant venues like West Bund, appealing to coffee enthusiasts."
+    },
+    {
+      "id": 9,
+      "human": "Generate a guide to Shanghai’s coffee tasting events.",
+      "gpt": "A guide to Shanghai’s coffee tasting events includes: 1) Shanghai Coffee Festival in West Bund, 2) Jing’an Cafe Crawl, 3) Xuhui Roastery Open Days, 4) Pudong Brew Workshops, 5) Monthly Tastings at Seesaw Coffee."
+    },
+    {
+      "id": 10,
+      "human": "What role does coffee play in Shanghai’s social life?",
+      "gpt": "Coffee in Shanghai is a social catalyst, with cafes serving as meeting spots for professionals, students, and creatives, fostering networking and relaxation."
+    },
+    {
+      "id": 11,
+      "human": "What’s up with the cool clothes in Shanghai?",
+      "gpt": "Shanghai’s hip-hop fashion scene is vibrant, with streetwear boutiques in Tianzifang and Xuhui offering oversized tees, sneakers, and local designs."
+    },
+    {
+      "id": 12,
+      "human": "Tell me about Shanghai fashion, like street stuff.",
+      "gpt": "Shanghai’s street fashion, especially hip-hop, thrives in areas like Tianzifang, with local brands like DOE and pop-up markets driving youth culture."
+    },
+    {
+      "id": 13,
+      "human": "List the top five hip-hop fashion boutiques in Shanghai for 2025.",
+      "gpt": "Top five hip-hop fashion boutiques in Shanghai for 2025: 1) DOE, 2) Fake Natoo, 3) Hoon, 4) Deal, 5) The Hub, known for streetwear and sneakers."
+    },
+    {
+      "id": 14,
+      "human": "Explain the influence of hip-hop culture on Shanghai’s youth fashion in 2025.",
+      "gpt": "Hip-hop culture shapes Shanghai’s youth fashion in 2025 through music, social media, and events, promoting bold streetwear like oversized clothing and sneakers."
+    },
+    {
+      "id": 15,
+      "human": "Describe Shanghai’s hip-hop fashion scene.",
+      "gpt": "Shanghai’s hip-hop fashion scene is dynamic, centered in Tianzifang and Xuhui, with local designers and global brands catering to a youth-driven market."
+    },
+    {
+      "id": 16,
+      "human": "Why is Shanghai known for its streetwear culture?",
+      "gpt": "Shanghai’s streetwear culture is renowned due to its blend of global trends, local creativity, and vibrant youth scenes in areas like Tianzifang and M50."
+    },
+    {
+      "id": 17,
+      "human": "Classify social media posts about Shanghai’s streetwear as positive or negative.",
+      "gpt": "Social media posts about Shanghai’s streetwear are mostly positive, highlighting creativity and variety, though some mention high costs as a drawback."
+    },
+    {
+      "id": 18,
+      "human": "Generate a story about a designer in Shanghai’s hip-hop fashion scene.",
+      "gpt": "Li Wei, a young designer in Tianzifang, creates bold streetwear inspired by Shanghai’s rap battles, gaining fame at pop-up markets for unique sneaker designs."
+    },
+    {
+      "id": 19,
+      "human": "What are the key hip-hop fashion events in Shanghai?",
+      "gpt": "Key hip-hop fashion events in Shanghai include Tianzifang Streetwear Fest, Xuhui Pop-Up Markets, Shanghai Fashion Week Street Style, and DOE Brand Launches."
+    },
+    {
+      "id": 20,
+      "human": "How does social media shape Shanghai’s hip-hop fashion trends?",
+      "gpt": "Social media platforms like Xiaohongshu and Douyin drive Shanghai’s hip-hop fashion trends, with influencers showcasing streetwear from Tianzifang boutiques."
+    },
+    {
+      "id": 21,
+      "human": "What’s cool about Shanghai’s river stuff?",
+      "gpt": "Shanghai’s Huangpu River waterfront, including the Bund, offers stunning skyline views, night cruises, and cultural events, making it a top attraction."
+    },
+    {
+      "id": 22,
+      "human": "Tell me about the water places in Shanghai, maybe.",
+      "gpt": "Shanghai’s waterfronts, like the Huangpu River and Suzhou Creek, feature scenic walks, art installations, and dining, popular for their urban-natural blend."
+    },
+    {
+      "id": 23,
+      "human": "List the top five activities along Shanghai’s Huangpu River waterfront in 2025.",
+      "gpt": "Top five activities: 1) Night cruises, 2) Walking the Bund, 3) Photography at Lujiazui, 4) Dining at riverside restaurants, 5) Visiting art installations."
+    },
+    {
+      "id": 24,
+      "human": "Describe the history of Shanghai’s waterfront development from 2000 to 2025.",
+      "gpt": "From 2000 to 2025, Shanghai’s waterfronts, especially the Huangpu River, transformed with modern skyscrapers, restored historic sites, and green spaces."
+    },
+    {
+      "id": 25,
+      "human": "Describe the Huangpu River waterfront in Shanghai.",
+      "gpt": "The Huangpu River waterfront features the iconic Bund, modern Lujiazui skyline, and cultural sites, offering cruises, walks, and dining experiences."
+    },
+    {
+      "id": 26,
+      "human": "What makes Suzhou Creek a popular destination in Shanghai?",
+      "gpt": "Suzhou Creek is popular for its restored waterfront, art galleries, and cafes, blending historic charm with modern cultural events in Changning."
+    },
+    {
+      "id": 27,
+      "human": "Classify reviews of Shanghai’s riverfront parks as positive or negative.",
+      "gpt": "Reviews of Shanghai’s riverfront parks are mostly positive, praising scenic views and cleanliness, though some note crowding during peak times."
+    },
+    {
+      "id": 28,
+      "human": "Generate a walking tour of Shanghai’s waterfront landmarks.",
+      "gpt": "A walking tour includes: 1) The Bund’s historic buildings, 2) Lujiazui’s skyline, 3) Riverside Promenade, 4) Suzhou Creek’s art hubs, 5) Xuhui’s green spaces."
+    },
+    {
+      "id": 29,
+      "human": "What are the best spots for photographing Shanghai’s waterfront?",
+      "gpt": "Best photography spots: 1) The Bund, 2) Lujiazui skyline, 3) Suzhou Creek bridges, 4) Xuhui waterfront, 5) Riverside Promenade at dusk."
+    },
+    {
+      "id": 30,
+      "human": "How do Shanghai’s waterfront areas host cultural events?",
+      "gpt": "Shanghai’s waterfronts host cultural events like art fairs, music festivals, and light shows, with venues like West Bund and Lujiazui drawing crowds."
+    },
+    {
+      "id": 31,
+      "human": "What’s the food scene like in Shanghai?",
+      "gpt": "Shanghai’s food scene is diverse, with street food markets, Michelin-starred restaurants, and local specialties like xiaolongbao in Yu Garden."
+    },
+    {
+      "id": 32,
+      "human": "Tell me about Shanghai food, like tasty stuff.",
+      "gpt": "Shanghai’s cuisine includes xiaolongbao, hairy crab, and street food like shengjianbao, found in markets like Qibao and upscale spots in Xintiandi."
+    },
+    {
+      "id": 33,
+      "human": "List the top five street food markets in Shanghai for 2025.",
+      "gpt": "Top five street food markets: 1) Qibao Ancient Town, 2) Yu Garden, 3) Tianzifang, 4) Wujiang Road, 5) South Bund Fabric Market."
+    },
+    {
+      "id": 34,
+      "human": "Explain the cultural significance of xiaolongbao in Shanghai’s cuisine.",
+      "gpt": "Xiaolongbao, a steamed soup dumpling, is a Shanghai icon, symbolizing culinary precision and local pride, often served at dim sum restaurants."
+    },
+    {
+      "id": 35,
+      "human": "Describe Shanghai’s foody culture in 2025.",
+      "gpt": "Shanghai’s foody culture in 2025 blends traditional dishes like xiaolongbao with global cuisines, thriving in street markets and upscale restaurants."
+    },
+    {
+      "id": 36,
+      "human": "What makes Shanghai’s dim sum restaurants popular?",
+      "gpt": "Shanghai’s dim sum restaurants are popular for their variety, fresh ingredients, and cultural heritage, with spots like Din Tai Fung leading the scene."
+    },
+    {
+      "id": 37,
+      "human": "Classify reviews of Shanghai’s street food stalls as positive or negative.",
+      "gpt": "Reviews of Shanghai’s street food stalls are mostly positive, praising flavor and affordability, though some mention hygiene concerns."
+    },
+    {
+      "id": 38,
+      "human": "Generate a guide to Shanghai’s food markets.",
+      "gpt": "A guide to Shanghai’s food markets: 1) Yu Garden for xiaolongbao, 2) Qibao for skewers, 3) Tianzifang for snacks, 4) Wujiang for noodles, 5) South Bund for seafood."
+    },
+    {
+      "id": 39,
+      "human": "How do Shanghai’s food trends blend global influences?",
+      "gpt": "Shanghai’s food trends mix local flavors with global cuisines, seen in fusion restaurants and international food festivals in Xintiandi and Pudong."
+    },
+    {
+      "id": 40,
+      "human": "What are the top Michelin-starred restaurants in Shanghai?",
+      "gpt": "Top Michelin-starred restaurants: 1) Ultraviolet, 2) Fu He Hui, 3) Da Dong, 4) Yi Long Court, 5) Sir Elly’s, known for innovative Chinese cuisine."
+    },
+    {
+      "id": 41,
+      "human": "How do people get around Shanghai?",
+      "gpt": "Shanghai’s public transport includes a vast metro, buses, Maglev train, and bike-sharing, offering efficient and affordable travel across the city."
+    },
+    {
+      "id": 42,
+      "human": "What’s the transport thing in Shanghai like?",
+      "gpt": "Shanghai’s transportation is world-class, with a 17-line metro, high-speed Maglev, and extensive bus and bike networks, centered around hubs like People’s Square."
+    },
+    {
+      "id": 43,
+      "human": "List the top five features of Shanghai’s metro system in 2025.",
+      "gpt": "Top five features: 1) 17 lines, 2) Real-time apps, 3) High-speed trains, 4) Accessibility features, 5) Extensive coverage to suburbs like Pudong."
+    },
+    {
+      "id": 44,
+      "human": "Explain the history of Shanghai’s Maglev Train from its launch to 2025.",
+      "gpt": "Launched in 2004, Shanghai’s Maglev Train connects Pudong Airport to the city, with upgrades by 2025 improving speed and passenger comfort."
+    },
+    {
+      "id": 45,
+      "human": "Describe Shanghai’s public transportation system.",
+      "gpt": "Shanghai’s public transport includes a 17-line metro, buses, Maglev, and bike-sharing, known for efficiency and coverage, with apps like Metro Daduhui."
+    },
+    {
+      "id": 46,
+      "human": "What makes子ども Shanghai’s bike-sharing programs effective?",
+      "gpt": "Shanghai’s bike-sharing programs, like Mobike, are effective due to wide availability, GPS tracking, and affordable apps, popular in areas like Xuhui."
+    },
+    {
+      "id": 47,
+      "human": "Classify user feedback on Shanghai’s metro as positive or negative.",
+      "gpt": "User feedback on Shanghai’s metro is mostly positive, citing speed and coverage, though some complain about peak-hour crowding."
+    },
+    {
+      "id": 48,
+      "human": "Generate a guide to using Shanghai’s public buses for tourists.",
+      "gpt": "Guide to Shanghai’s buses: 1) Use Metro Daduhui app, 2) Board at major stops like People’s Square, 3) Pay via QR code, 4) Check routes online, 5) Avoid rush hours."
+    },
+    {
+      "id": 49,
+      "human": "How do tourists access Shanghai’s transport apps?",
+      "gpt": "Tourists access Shanghai’s transport apps like Metro Daduhui via download from app stores, with English interfaces and QR code payments for metro and buses."
+    },
+    {
+      "id": 50,
+      "human": "What are the peak hours for Shanghai’s public transport?",
+      "gpt": "Shanghai’s public transport peak hours are 7-9 AM and 5-7 PM, with heavy crowding on metro lines at stations like People’s Square and Lujiazui."
+    },
+    {
+      "id": 51,
+      "human": "What’s fancy shopping like in Shanghai?",
+      "gpt": "Shanghai’s luxury shopping is world-class, with designer stores in Plaza 66 and Nanjing Road offering bags, watches, and fashion for affluent shoppers."
+    },
+    {
+      "id": 52,
+      "human": "Tell me about luxury stuff in Shanghai, maybe bags.",
+      "gpt": "Shanghai’s luxury retail, especially bags, thrives in malls like Plaza 66, with brands like Gucci and Prada attracting locals and tourists."
+    },
+    {
+      "id": 53,
+      "human": "List the top five luxury bag stores in Shanghai for 2025.",
+      "gpt": "Top five luxury bag stores: 1) Gucci at Plaza 66, 2) Prada at IFC Mall, 3) Louis Vuitton at Nanjing Road, 4) Chanel at IAPM, 5) Dior at Kerry Centre."
+    },
+    {
+      "id": 54,
+      "human": "Explain the growth of Shanghai’s luxury retail market from 2015 to 2025.",
+      "gpt": "From 2015 to 2025, Shanghai’s luxury retail grew due to rising wealth, global brands, and new malls like IAPM, making it Asia’s luxury shopping hub."
+    },
+    {
+      "id": 55,
+      "human": "Describe Shanghai’s luxury shopping districts.",
+      "gpt": "Shanghai’s luxury shopping districts include Nanjing Road, Plaza 66, IAPM Mall, and IFC Mall, offering designer bags, fashion, and exclusive boutiques."
+    },
+    {
+      "id": 56,
+      "human": "What makes Shanghai a hub for luxury goods?",
+      "gpt": "Shanghai’s wealth, global brands, and iconic malls like Plaza 66 make it a luxury goods hub, attracting shoppers with exclusive designer items."
+    },
+    {
+      "id": 57,
+      "human": "Classify reviews of Shanghai’s luxury boutiques as positive or negative.",
+      "gpt": "Reviews of Shanghai’s luxury boutiques are mostly positive, praising variety and service, though some note high prices and exclusivity."
+    },
+    {
+      "id": 58,
+      "human": "Generate a guide to Shanghai’s designer accessory markets.",
+      "gpt": "Guide to designer accessory markets: 1) Plaza 66 for bags, 2) IAPM for jewelry, 3) Nanjing Road for watches, 4) IFC Mall for scarves, 5) Kerry Centre for shoes."
+    },
+    {
+      "id": 59,
+      "human": "What are the latest trends in Shanghai’s luxury goods?",
+      "gpt": "Shanghai’s luxury goods trends in 2025 include limited-edition bags, sustainable fashion, and tech-infused accessories, popular in Plaza 66 and IAPM."
+    },
+    {
+      "id": 60,
+      "human": "How do Shanghai’s luxury fairs influence retail culture?",
+      "gpt": "Shanghai’s luxury fairs, like those at West Bund, showcase exclusive goods, driving trends and attracting affluent shoppers to malls like Plaza 66."
+    },
+    {
+      "id": 61,
+      "human": "What’s the mall vibe in Shanghai?",
+      "gpt": "Shanghai’s malls like IAPM and Global Harbor are vibrant, blending shopping, dining, and cultural events like concerts and art shows for all ages."
+    },
+    {
+      "id": 62,
+      "human": "Tell me about Shanghai malls, like what’s there.",
+      "gpt": "Shanghai’s malls, such as IAPM and Global Harbor, offer luxury stores, food courts, VR arcades, and events like rooftop music festivals."
+    },
+    {
+      "id": 63,
+      "human": "List the top five shopping malls in Shanghai for 2025.",
+      "gpt": "Top five malls: 1) IAPM Mall, 2) Global Harbor, 3) Plaza 66, 4) IFC Mall, 5) Super Brand Mall, known for luxury and entertainment."
+    },
+    {
+      "id": 64,
+      "human": "Explain the evolution of Shanghai’s shopping mall culture from 2000 to 2025.",
+      "gpt": "From 2000 to 2025, Shanghai’s mall culture evolved from basic retail to cultural hubs, with IAPM and Global Harbor adding events and dining."
+    },
+    {
+      "id": 65,
+      "human": "Describe Shanghai’s shopping mall culture.",
+      "gpt": "Shanghai’s mall culture in 2025 is dynamic, with malls like IAPM offering shopping, dining, and events like art shows and live music."
+    },
+    {
+      "id": 66,
+      "human": "What makes Shanghai’s malls cultural hubs?",
+      "gpt": "Shanghai’s malls are cultural hubs due to their blend of retail, dining, and events like concerts and exhibitions, especially in IAPM and Global Harbor."
+    },
+    {
+      "id": 67,
+      "human": "Classify reviews of Shanghai’s IAPM Mall as positive or negative.",
+      "gpt": "Reviews of IAPM Mall are mostly positive, praising luxury stores and events, though some mention parking issues as a negative."
+    },
+    {
+      "id": 68,
+      "human": "Generate a guide to family-friendly activities in Shanghai’s malls.",
+      "gpt": "Guide to family-friendly activities: 1) IAPM’s VR arcade, 2) Global Harbor’s kids’ zone, 3) IFC Mall’s cinema, 4) Super Brand Mall’s play area, 5) Plaza 66’s workshops."
+    },
+    {
+      "id": 69,
+      "human": "How do Shanghai’s malls blend dining and shopping?",
+      "gpt": "Shanghai’s malls blend dining and shopping with food courts, Michelin-starred restaurants, and cafes, like IAPM’s rooftop dining and Global Harbor’s eateries."
+    },
+    {
+      "id": 70,
+      "human": "What role does technology play in Shanghai’s malls?",
+      "gpt": "Technology in Shanghai’s malls includes VR arcades, digital payments, and interactive displays, enhancing shopping at IAPM and Global Harbor."
+    },
+    {
+      "id": 71,
+      "human": "What’s the artsy stuff in Shanghai like?",
+      "gpt": "Shanghai’s pioneering arts scene thrives in M50 and West Bund, with contemporary galleries, street art, and digital installations."
+    },
+    {
+      "id": 72,
+      "human": "Tell me about Shanghai’s art, maybe cool galleries.",
+      "gpt": "Shanghai’s art scene includes M50’s graffiti-filled galleries and West Bund’s modern museums, showcasing local and global artists."
+    },
+    {
+      "id": 73,
+      "human": "List the top five contemporary art galleries in Shanghai for 2025.",
+      "gpt": "Top five galleries: 1) ShanghART, 2) Yuz Museum, 3) Power Station of Art, 4) Chronus Art Center, 5) M50’s Tank Shanghai."
+    },
+    {
+      "id": 74,
+      "human": "Explain the impact of Shanghai’s art biennales on global art trends from 2015 to 2025.",
+      "gpt": "From 2015 to 2025, Shanghai’s art biennales, like the Shanghai Biennale, influenced global trends with digital and sustainable art innovations."
+    },
+    {
+      "id": 75,
+      "human": "Describe Shanghai’s pioneering arts scene.",
+      "gpt": "Shanghai’s arts scene in 2025 is innovative, with M50 and West Bund hosting galleries, VR installations, and biennales blending tradition and tech."
+    },
+    {
+      "id": 76,
+      "human": "What makes Shanghai a leader in contemporary art?",
+      "gpt": "Shanghai leads in contemporary art due to its vibrant galleries, biennales, and investment in spaces like M50 and Power Station of Art."
+    },
+    {
+      "id": 77,
+      "human": "Classify reviews of Shanghai’s M50 art district as positive or negative.",
+      "gpt": "Reviews of M50 are mostly positive, praising creativity and variety, though some note limited accessibility for non-artists."
+    },
+    {
+      "id": 78,
+      "human": "Generate a guide to Shanghai’s art events in 2025.",
+      "gpt": "Guide to 2025 art events: 1) Shanghai Biennale, 2) West Bund Art Fair, 3) M50 Open Studios, 4) Power Station of Art Exhibits, 5) Yuz Museum Shows."
+    },
+    {
+      "id": 79,
+      "human": "How do Shanghai’s art spaces foster innovation?",
+      "gpt": "Shanghai’s art spaces like M50 foster innovation through artist residencies, tech-infused exhibits, and collaborations at events like the Biennale."
+    },
+    {
+      "id": 80,
+      "human": "What role does technology play in Shanghai’s art installations?",
+      "gpt": "Technology in Shanghai’s art includes VR, AI-generated works, and interactive displays, prominent in M50 and Power Station of Art exhibits."
+    },
+    {
+      "id": 81,
+      "human": "What’s the music vibe in Shanghai?",
+      "gpt": "Shanghai’s music scene is vibrant, with festivals like MIDI and Strawberry offering indie, EDM, and rock in venues across Pudong and Xuhui."
+    },
+    {
+      "id": 82,
+      "human": "Tell me about Shanghai festivals, like music ones.",
+      "gpt": "Shanghai’s music festivals, such as Strawberry and MIDI, draw crowds with diverse genres, food trucks, and vibrant settings in Pudong and West Bund."
+    },
+    {
+      "id": 83,
+      "human": "List the top five music festivals in Shanghai for 2025.",
+      "gpt": "Top five music festivals: 1) Strawberry Music Festival, 2) MIDI Festival, 3) Shanghai Jazz Festival, 4) Concrete & Grass, 5) West Bund Music Fest."
+    },
+    {
+      "id": 84,
+      "human": "Explain the cultural significance of Shanghai’s Strawberry Music Festival in 2025.",
+      "gpt": "The Strawberry Music Festival in 2025 is a cultural hub, uniting youth with indie and EDM music, fostering community in Pudong’s open venues."
+    },
+    {
+      "id": 85,
+      "human": "Describe Shanghai’s music festival scene.",
+      "gpt": "Shanghai’s music festival scene in 2025 is diverse, with events like Strawberry and MIDI offering indie, jazz, and EDM in Pudong and West Bund."
+    },
+    {
+      "id": 86,
+      "human": "What makes Shanghai’s music festivals popular?",
+      "gpt": "Shanghai’s music festivals are popular for their diverse genres, international headliners, and vibrant venues like Pudong’s festival grounds."
+    },
+    {
+      "id": 87,
+      "human": "Classify reviews of Shanghai’s MIDI Festival as positive or negative.",
+      "gpt": "Reviews of MIDI Festival are mostly positive, praising music variety and vibe, though some mention logistical issues like parking."
+    },
+    {
+      "id": 88,
+      "human": "Generate a guide to attending Shanghai’s music festivals.",
+      "gpt": "Guide to Shanghai’s music festivals: 1) Book tickets early, 2) Use metro to Pudong venues, 3) Bring cash for food trucks, 4) Check lineups online, 5) Arrive early for prime spots."
+    },
+    {
+      "id": 89,
+      "human": "How do Shanghai’s music festivals attract international artists?",
+      "gpt": "Shanghai’s music festivals attract international artists with large audiences, modern venues, and partnerships, seen in Strawberry and MIDI lineups."
+    },
+    {
+      "id": 90,
+      "human": "What is the impact of Shanghai’s music festivals on youth culture?",
+      "gpt": "Shanghai’s music festivals shape youth culture by promoting music, fashion, and social bonding, with events like Strawberry driving trends."
+    },
+    {
+      "id": 91,
+      "human": "What’s the old stuff to see in Shanghai?",
+      "gpt": "Shanghai’s traditional sites include Yu Garden, Jing’an Temple, and Zhujiajiao Water Town, offering glimpses into the city’s rich cultural heritage."
+    },
+    {
+      "id": 92,
+      "human": "Tell me about Shanghai’s old places, like temples or something.",
+      "gpt": "Shanghai’s historic sites include Jing’an Temple, Chenghuang Temple, and Qibao Ancient Town, known for their architecture and cultural significance."
+    },
+    {
+      "id": 93,
+      "human": "List the top five traditional tourism sites in Shanghai for 2025.",
+      "gpt": "Top five sites: 1) Yu Garden, 2) Jing’an Temple, 3) Chenghuang Temple, 4) Zhujiajiao Water Town, 5) Qibao Ancient Town."
+    },
+    {
+      "id": 94,
+      "human": "Explain the cultural significance of the Yu Garden in Shanghai’s history.",
+      "gpt": "Yu Garden, built in the Ming Dynasty, is a cultural landmark, symbolizing Shanghai’s historical wealth and classical Chinese garden design."
+    },
+    {
+      "id": 95,
+      "human": "Describe Shanghai’s traditional tourism places.",
+      "gpt": "Shanghai’s traditional sites, like Yu Garden and Zhujiajiao, offer historic architecture, temples, and canals, reflecting the city’s cultural roots."
+    },
+    {
+      "id": 96,
+      "human": "What makes Zhujiajiao Water Town a popular tourist site?",
+      "gpt": "Zhujiajiao Water Town is popular for its ancient canals, stone bridges, and traditional shops, offering a serene escape from Shanghai’s urban bustle."
+    },
+    {
+      "id": 97,
+      "human": "Classify reviews of the Jing’an Temple as positive or negative.",
+      "gpt": "Reviews of Jing’an Temple are mostly positive, praising its beauty and history, though some mention crowding during festivals."
+    },
+    {
+      "id": 98,
+      "human": "Generate a guide to Shanghai’s historic temples.",
+      "gpt": "Guide to historic temples: 1) Jing’an Temple for Buddhist art, 2) Chenghuang Temple for Taoist heritage, 3) Longhua Temple for pagodas, 4) Jade Buddha Temple for statues, 5) Confucius Temple for serenity."
+    },
+    {
+      "id": 99,
+      "human": "How do Shanghai’s traditional sites reflect its heritage?",
+      "gpt": "Shanghai’s traditional sites like Yu Garden and Jing’an Temple reflect its heritage through Ming-era architecture, Buddhist influences, and historic trade roots."
+    },
+    {
+      "id": 100,
+      "human": "What is the visitor experience at Qibao Ancient Town like?",
+      "gpt": "Qibao Ancient Town offers a vibrant visitor experience with historic streets, street food, and traditional shops, ideal for cultural exploration."
+    }
+  ]
+}
